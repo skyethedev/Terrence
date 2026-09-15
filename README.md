@@ -1,4 +1,5 @@
 # Terrence - Your Virtual Desktop Buddy 🐾
+**Note: Terrence was created using the assistance of generative AI. While there are portions of human written code, some parts may have been written by an LLM.**
 
 Terrence is a virtual desktop companion designed to help you build healthy work habits. Terrence lives as a transparent widget on your screen, keeping an eye on your Pomodoro sessions, making sure you take breaks, and keeping you company with customizable dialogue. If you consistently skip breaks or work too late, Terrence's health drops, and he'll start aggressively asking for breaks or even eating your clipboard data!
 
